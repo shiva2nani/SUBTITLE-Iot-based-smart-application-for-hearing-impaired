@@ -1,0 +1,2 @@
+# SUBTITLE-Iot-based-smart-application-for-hearing-impaired
+There are several approaches to help the hearing impaired through smart applications and web services. Here we propose a perfect substitute for the latter by using the IOT Technology. IOT is one of the emerging technologies these days. We design a IOT device and connect it with the application through which the input is given and then the input voice gets converted to text and displayed on a smart IOT Glass. 
