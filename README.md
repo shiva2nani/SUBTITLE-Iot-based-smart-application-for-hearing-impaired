@@ -125,22 +125,22 @@ Here in this project there are five modules used
 
 ## 4.2 ALGORITHM
 •	Initialize the header files for the LCD display and serial numbers of the pins. <br>
-•	Declare the pin numbers as the integers. 
-•	Call the pin numbers into the LCD Display
-•	Call the OLED Libraries. 
-•	Call the pin numbers for the Bluetooth module. 
-•	Check if there is Bluetooth connectivity and print “status completed” if there is connectivity. 
-•	Declare the function draw() in order to display the speech input as text. 
-•	Declare the function setup() to start and initialize all the modules required for the app. 
-•	Declare the function loop() to avoid re-initializing and app and continue the functions and to implement delay. 
-•	In function draw():
-•	Set the font and the position of text.
-•	Print the text. 
-•	In function setup():
-•	Begin LCD, Bluetooth and serial numbers. 
-•	In function Loop().
-•	Check for Bluetooth availability.
-•	Check for voice length.
+•	Declare the pin numbers as the integers. <br>
+•	Call the pin numbers into the LCD Display.<br>
+•	Call the OLED Libraries. <br>
+•	Call the pin numbers for the Bluetooth module. <br>
+•	Check if there is Bluetooth connectivity and print “status completed” if there is connectivity. <br>
+•	Declare the function draw() in order to display the speech input as text. <br>
+•	Declare the function setup() to start and initialize all the modules required for the app. <br>
+•	Declare the function loop() to avoid re-initializing and app and continue the functions and to implement delay. <br>
+•	In function draw():<br>
+•	Set the font and the position of text.<br>
+•	Print the text. <br>
+•	In function setup():<br>
+•	Begin LCD, Bluetooth and serial numbers. <br>
+•	In function Loop().<br>
+•	Check for Bluetooth availability.<br>
+•	Check for voice length.<br>
 
 
 
