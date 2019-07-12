@@ -1,33 +1,33 @@
 # SUBTITLE-Iot-based-smart-application-for-hearing-impaired
 There are several approaches to help the hearing impaired through smart applications and web services. Here we propose a perfect substitute for the latter by using the IOT Technology. IOT is one of the emerging technologies these days. We design a IOT device and connect it with the application through which the input is given and then the input voice gets converted to text and displayed on a smart
-##INTRODUCTION
+## INTRODUCTION
 There are several approaches to help the hearing impaired through smart applications and web services. Here we propose a perfect substitute for the latter by using the IOT Technology. IOT is one of the emerging technologies these days. We design a IOT device and connect it with the application through which the input is given and then the input voice gets converted to text and displayed on a smart IOT Glass. 
-###1.1 OBJECTIVE:
+### 1.1 OBJECTIVE:
 The objective of this project is to make the process interesting and reducing the real time captioning of the speech of nearest person.
 The work that is to done in this project are:
 •	Make it simple to use and interactive.
 •	To use smart application and the IoT device.
 •	Convert the speech to text real time.
 •	Display on the smart glasses IoT .
-###1.2 EXISTING SYSTEMS
+### 1.2 EXISTING SYSTEMS
                                                                            
 There’s no stopping technology from revolutionizing the way we live our lives and assisting those who need help. This is evident with the increasing ownership of the ‘Internet of Things’ (IoT) technologies. The existing systems Earfy or Live caption, apps turn speech into subtitles. Ideal for  persons who are deaf or hard of hearing. With a Tablet or Smartphone on the table and you can read what is being said. The Earfy app converts voice into text. Spoken text is shown as subtitles on your tablet or Smartphone. The app was developed for persons with deafness. Our system tries to remove the barriers faced in communication between deaf and normal person.
 
-###1.3 DRAWBACKS OF EXISITING SYSTEMS
+### 1.3 DRAWBACKS OF EXISITING SYSTEMS
 It is important to know the loopholes and drawbacks of the existing system so as to compare it in contrast to the proposed system. 
 •	Requires a lot of manual work. 
 •	Not so interesting.
 
-###1.4 PROPOSED SYSTEM
+### 1.4 PROPOSED SYSTEM
 In the PROPOSED SYSTEM, the speech is automatically converted to the text preferably in the English and visualized onto the footer of the smart screen enabling ease for the deaf and making them communicate with the normal.
 
-###1.5 ADVANTAGES OF THE PROPOSED SYSTEM
+### 1.5 ADVANTAGES OF THE PROPOSED SYSTEM
  The advantages of proposed system are:
 •	Can be accessed across the globe.
 •	Absorbing and Captivating. 
 •	Interactive. 
 
-##SYSTEM REQUIREMENTS
+## SYSTEM REQUIREMENTS
 There are various requirements which are required to complete the proposed system to get into working condition. The required things are divided into two major requirements. 
 2.1 SOFTWARE REQUIRMENTS:
 •	Arduino IDE
@@ -43,7 +43,7 @@ Google Cloud Speech API enables developers to convert audio to text by applying 
 
 
 
-###2.2HARDWARE REQUIREMENTS
+### 2.2HARDWARE REQUIREMENTS
 •	Windows 8/10
 •	Intel®core ™ i5 processor
 •	4 GB RAM
@@ -77,7 +77,7 @@ A liquid-crystal display (LCD) is a flat-panel display or other electronically m
 •	Potentiometer
 
 
-##Modules Used
+## Modules Used
 
 3.4 Module Description
 3.4.1 Speech input to the Application
@@ -93,7 +93,7 @@ The OLED Display is attached to the prism , so whenever a text to be displayed i
 
 
 
-##SYSTEM IMPLEMENTATION
+## SYSTEM IMPLEMENTATION
 System implementation is most important part of project where we combine all the planning and design. The planning and design consist of data flow diagram, activity diagram, use case diagram, sequence diagram in terms of code.
 4.1 METHODOLOGY
 Methodology is a system of methods used in a particular area of study or activity.
@@ -145,12 +145,12 @@ Here in this project there are five modules used
 
 
 
-##4.2.1 Technique used
+## 4.2.1 Technique used
 Google Speech to Text API
 ▸ Using voice as Input
 ▸ Input converts to text using the Android application
 
-##4.3 SAMPLE CODE
+## 4.3 SAMPLE CODE
 `#include <SoftwareSerial.h>
 #include <LiquidCrystal.h>
 #include "U8glib.h"
