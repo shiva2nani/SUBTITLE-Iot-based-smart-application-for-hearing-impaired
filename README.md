@@ -123,8 +123,8 @@ Here in this project there are five modules used
 
 
 
-##4.2 ALGORITHM
-•	Initialize the header files for the LCD display and serial numbers of the pins. 
+## 4.2 ALGORITHM
+•	Initialize the header files for the LCD display and serial numbers of the pins. <br>
 •	Declare the pin numbers as the integers. 
 •	Call the pin numbers into the LCD Display
 •	Call the OLED Libraries. 
@@ -151,7 +151,8 @@ Google Speech to Text API
 ▸ Input converts to text using the Android application
 
 ## 4.3 SAMPLE CODE
-`#include <SoftwareSerial.h>
+``` 
+#include <SoftwareSerial.h>
 #include <LiquidCrystal.h>
 #include "U8glib.h"
 constintrs = 12, en = 9, d4 = 5, d5 = 4, d6 = 3, d7 = 2;
@@ -193,7 +194,7 @@ draw();
 delay(500);
 delay(1000)
 voice="";}}
-`
+```
 
 
 
