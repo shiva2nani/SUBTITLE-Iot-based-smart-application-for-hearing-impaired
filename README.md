@@ -99,23 +99,24 @@ System implementation is most important part of project where we combine all the
 Methodology is a system of methods used in a particular area of study or activity.
 Here in this project there are five modules used
 •	Speech Input to the Application
-•	Text from the Application to the Arduino UNO
-•	Arduino UNO to the OLED Display(Smart Glasses)
-      1. Open the Android Application that is designed for Speech to text Conversion. 
+•	Text from the Application to the Arduino UNO <br>
+•	Arduino UNO to the OLED Display(Smart Glasses) <br>
+
+1. Open the Android Application that is designed for Speech to text Conversion. 
  
-
-
-
 2. Navigate to Connect and the connect the IOT Arduino Kit with Bluetooth. 
 
 3. Open the Arduino IDE , click on create new file. 
 
 4. Open the file and write the required code for the Text to be sent to the OLED and LCD Displays.
 
- 5. Transfer the code from the Arduino IDE to the Arduino UNO Kit by uploading the code. 
- 6. Now, Board receives the text and processes it to the LCD 
- 7. The OLED Display is connected to the prism inorder to the project the text that is being shown in the LCD.
- 8. The OLED Display receives the text that is projected from the Prism and displays the Output. 
+5. Transfer the code from the Arduino IDE to the Arduino UNO Kit by uploading the code. 
+
+6. Now, Board receives the text and processes it to the LCD 
+
+7. The OLED Display is connected to the prism inorder to the project the text that is being shown in the LCD.
+
+8. The OLED Display receives the text that is projected from the Prism and displays the Output. 
 
 
 
